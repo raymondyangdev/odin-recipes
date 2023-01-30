@@ -4,8 +4,7 @@ This is a simple recipe website created as part of The Odin Project curriculum. 
 [Click here to learn more about The Odin Project](https://www.theodinproject.com/about)
 
 ## Features
-Clean and simple user interface for easy navigation
-3 delicious recipes with clear instructions!
+* 3 delicious recipes with clear instructions!
 
 ## Technologies Used
 * HTML
