@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
+#home-page {
     text-align: center;
 }
 
@@ -23,7 +23,7 @@ img {
     border-bottom: 1px dotted black;
 }
 
-.card2 {
+.card {
     width: 200px;
     height: auto;
     outline: 1px solid;
