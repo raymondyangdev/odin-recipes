@@ -16,11 +16,15 @@ a {
     text-align: center;
 }
 
-img {
+.card-img {
     width: 200px;
     height: 10rem;
     padding: 8px;
     border-bottom: 1px dotted black;
+}
+
+.container {
+    margin: 16px;
 }
 
 .card {
