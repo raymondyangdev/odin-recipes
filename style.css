@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: Montserrat, Helvetica, sans-serif;
+    line-height: 1.5;
 }
 
 #home-page {
@@ -17,6 +18,10 @@ a, a:visited {
 #heading {
     text-align: center;
     margin-top: 16px;
+}
+
+.container #heading {
+    margin-top: 0;
 }
 
 .card-img {
@@ -35,13 +40,14 @@ a, a:visited {
 }
 
 #recipe-img:hover {
-    transform: scale(1.1);
+    outline: 1px solid orange;
 }
 
 .container {
     margin: 16px;
-    width: 1200px;
+    width: 900px;
     margin: 0 auto;
+    padding: 24px;
 }
 
 .card {
